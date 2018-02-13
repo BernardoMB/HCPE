@@ -1,0 +1,26 @@
+Monica
+mruiz@itam.mx (Las tareas no se mandan aquí)
+
+1ra parte: Excel básico: Funciones matemáticas, lógicas, de búsqueda, tablas de datos, funciones de tipo financiero, gráficas.
+2da parte: Excel avanzado: Solver, matrices, manejo de datos, histogramas, tablas dinamicas, regresiones, macros e introducción a Visual Basic.
+3ra parte: Bases de datos y otras herramientas para manejo de datos. Inroduccion de bases de datos relacionales, Python. Bases de datos multidimensionales (2 o 3 clases).
+
+Evaluación:
+
+Examenes: 3 exámenes parciales (70%) y un examen final (20%). Exámenes prácticos. No hay teoría. Son acumulativos, salvo ciertos temas específicos.
+
+23.33% - 1er Parcial: Martes 13 de Febrero.
+23.33% - 2do Parcial: Martes 13 de Marzo.
+23.33% - 3er Parcial: Jueves 26 de Abril. Involucra bases de datos y python. Se divide 70% en trabajo y 30% en examen.  El trabajo tiene 3 calificaciones.
+20% - Examen Final: Acumulativo y peso mayor a Excel. 
+10% - Tareas, ejercicios, participaciones, trabajo en clase.
+
+Las tareas se califican de cero a 10.
+Los ejercicios en clase se manandan y se califican.
+Si no hay asistencia no hay manera de recuperar el trabajo en clase.
+Las tareas se mandan a comuindad. 
+Los examenes, las treas y los ejercicios se suben a comunidad.
+Casi todo de maneja a través de comunidad.
+Las démasimas adicionales son para los exámenes y pueden ir a cualquier parcial o al final. 
+
+Bibliografía en comunidad. 
