@@ -1,0 +1,21 @@
+Definicion de base de datos: Colección de datos relacionados entre sí y 
+almacenados sin repeticiones que perjudiquen a los datos
+su finalidad es la de servir a una o más aplicaciones.
+
+Caracterisicas:
+ - No redundancia (sin repeticiones)
+ - Accesibilidad (facilmente manipulable)
+ - Flexibilidad (se puede hacer tan grande como sea)
+ - Integridad (que se pueda confiar en los datos)
+ - Compatibilidad 
+ - Seguridad 
+  - Inertna: No cualquiera puede modificar los datos. 
+  - Externa: No accesible a cualquiera y que no se perderá la infromación
+ - Independencia (de datos y programas)
+
+Tipos de bases de datos:
+
+ - Jerárquica
+ - Redes
+ - Relacional
+ - No relacional
